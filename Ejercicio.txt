@@ -13,5 +13,7 @@ Espero poder realizarlo con exito.
 
 Gracias Totales.
 
-PENSAMIENTO
+PENSAMIENTOS
 "Si se puede imaginar, se puede programar"
+"Unos sufren por amor, yo sufro porque no compila"
+"Comer, Dormir, Codificar, Repetir"
