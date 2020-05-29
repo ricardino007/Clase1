@@ -5,8 +5,13 @@ Ricardo Samboni Ingeniero de Petroleo,
 ahora navegando entre bits de computo.
 
 Metas por alcanzar
-Poder realizar este ejercicio completo lo mejor posible
+1.Poder realizar este ejercicio completo lo mejor posible
+2.Apreder el lenguaje tecnico pertinente.
+3.Completar la especializacion y aprender un nuevo conocimiento
 
 Espero poder realizarlo con exito.
 
 Gracias Totales.
+
+PENSAMIENTO
+"Si se puede imaginar, se puede programar"
