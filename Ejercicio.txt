@@ -4,6 +4,9 @@ Practica de git y sus comando para demostrar conocimiento.
 Ricardo Samboni Ingeniero de Petroleo,
 ahora navegando entre bits de computo.
 
+Metas por alcanzar
+Poder realizar este ejercicio completo lo mejor posible
+
 Espero poder realizarlo con exito.
 
 Gracias Totales.
