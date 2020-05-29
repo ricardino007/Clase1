@@ -1,2 +1,5 @@
 Hola a todos
 Bienvenidos a la Especializacion de Desarrollo de Dispositivos Moviles.
+Durante este curso vamos aprender cosas nuevas;
+todo lo necesario para aprender a creae aplicaciones para dispositivos moviles.
+exitos para todos!!!!
